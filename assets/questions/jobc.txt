@@ -1,0 +1,25 @@
+BEGIN_OF_QUESTION
+Co oznacza łacińskie określenie "persona non grata"?
+END_OF_QUESTION
+Osoba nieznana
+Osoba niepożądana
+Osoba niezaznajomiona
+Osoba niegratyfikowana
+B
+BEGIN_OF_QUESTION
+Co oznacza pochodzący z języka francuskiego zwrot "chapeau bas"?
+END_OF_QUESTION
+Głowa do góry
+Kapelusz na głowę
+Kapelusze z głów
+Kapelusz z głowy
+D
+BEGIN_OF_QUESTION
+Co oznacza greckie słowo"Chloros"?
+END_OF_QUESTION
+Zielony
+Żółty
+Pomarańczowy
+Czerwony
+A
+END_OF_LIST

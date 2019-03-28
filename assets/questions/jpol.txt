@@ -1,0 +1,25 @@
+BEGIN_OF_QUESTION
+Jak brzmi miejscownik liczby pojedyńczej rzeczownika PIT?
+END_OF_QUESTION
+PIT
+PIT-u
+PIT-cie
+Picie
+D
+BEGIN_OF_QUESTION
+Jak piszemy nie z przymiotnikami?
+END_OF_QUESTION
+Łączne
+Rozdzielnie
+Zasadniczo łącznie
+Zasadniczo rozdzielnie
+C
+BEGIN_OF_QUESTION
+Z jakiego języka pochodzi słowo "kościół"?
+END_OF_QUESTION
+Nie jest to słowo pochodzenia obcego
+Z Czeskiego
+Z Niemieckiego
+Z Włoskiego
+B
+END_OF_LIST

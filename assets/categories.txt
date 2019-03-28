@@ -1,0 +1,11 @@
+﻿BEGIN_OF_LIST
+assets/questions/bio.txt-Biologia
+assets/questions/chem.txt-Chemia
+assets/questions/fiziastr.txt-Fizyka i astronomia
+assets/questions/geo.txt-Geografia
+assets/questions/inf.txt-Informatyka
+assets/questions/jobc.txt-Języki obce
+assets/questions/jpol.txt-Język Polski
+assets/questions/mat.txt-Matematyka
+assets/questions/kltiszt.txt-Kultura i sztuka
+END_OF_LIST

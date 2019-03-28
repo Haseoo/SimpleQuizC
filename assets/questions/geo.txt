@@ -1,0 +1,33 @@
+BEGIN_OF_QUESTION
+Jakie państwo NIE znajduje się w Europie?
+END_OF_QUESTION
+Turcja
+Gruzja
+Azerbejdżan
+Albania
+C
+BEGIN_OF_QUESION
+Który ocean ma największa powierzchnię?
+END_OF_QUESTION
+Północy
+Spokojny
+Atlantycki
+Indyjski
+B
+BEGIN_OF_QUESTION
+Ile państw należy do Unii Europejskiej (marzec 2018)?
+END_OF_QUESTION
+26
+27
+28
+29
+C
+BEGIN_OF_QUESTION
+Na jakim kontynencie leży Jezioro Wiktorii?
+END_OF_QUESTION
+Afryce
+Ameryce
+Azji
+Europie
+A
+END_OF_LIST

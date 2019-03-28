@@ -1,0 +1,2 @@
+Deleting the questions currently contained in the game files is not recommended. The game to work requires at least 10 questions. The gamemode "10 questions with choosing category" requires three categories with unused questions for each round. The list of categories can be found in "assets/categories.txt".  The question files must be added in a specific way, same as the present files are. 
+The files with questions should be organised in a way that present files are and have at least one question. Otherwise, the game may work improperly or may crash.

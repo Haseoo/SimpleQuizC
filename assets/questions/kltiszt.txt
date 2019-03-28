@@ -1,0 +1,27 @@
+﻿BEGIN_OF_QUESTION
+Kto napisał "Antygonę"- dramat z epoki starożytności?
+END_OF_QUESTION
+Sokrates
+Sofokles
+Sofokrates
+Ajschylos
+B
+BEGIN_OF_QUESTION
+Kto jest autorem tych słów?
+"A niechaj narodowie wżdy postronni znają, iż Polacy
+nie gęsi, iż swój język mają."
+END_OF_QUESTION
+Adam Mickiewicz
+Jan Kochanowski
+Juliusz Słowacki
+Mikołaj Rej
+D
+BEGIN_OF_QUESTION
+Jak nazywa się główny bohater "Lalki"?
+END_OF_QUESTION
+Sławomir Wokulski
+Stanisław Wokólski
+Stanisław Wokulski
+Sławomir Wokólski
+C
+END_OF_LIST

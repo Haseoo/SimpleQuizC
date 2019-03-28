@@ -1,0 +1,33 @@
+BEGIN_OF_QUESTION
+Alkohol spożywczy jest pochodną:
+END_OF_QUESTION
+Metanu
+Etanu
+Butanu
+Propanu
+B
+BEGIN_OF_QUESTION
+Chlorek żelaza (FeCl3) ma kolor:
+END_OF_QUESTION
+Pomarańczowy
+Żółty
+To zależy od uwodnienia
+Brunatny
+C
+BEGIN_OF_QUESTION
+Jaki z poniższych związków znajduje się w kamieniu kotłowym?
+END_OF_QUESTION
+H2SO4
+FeCl3
+CaCO3
+K2SO4
+C
+BEGIN_OF_QUESTION
+Który z podanych pierwiastków jest najmniej reaktywny?
+END_OF_QUESTION
+Jod
+Chlor
+Fluor
+Brom
+A
+END_OF_LIST

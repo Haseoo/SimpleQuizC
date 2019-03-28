@@ -1,0 +1,33 @@
+BEGIN_OF_QUESTION
+Jakie jest rozwinięcie skrótu RAM?
+END_OF_QUESTION
+Random Access Memory
+Read Access Memory
+Real Access Memory
+Żadna odpowiedź nie jest poprawna
+A
+BEGIN_OF_QUESTION
+W jaki sposób jest zapisana "69" w kodzie binarnym?
+END_OF_QUESTION
+01000100
+01000101
+11000101
+01010101
+B
+BEGIN_OF_QUESTION
+Kiedy skonstruowano maszynę Turinga?
+END_OF_QUESTION
+W XX wieku
+W XXI Wieku
+Nigdy
+W XIX wieku
+C
+BEGIN_OF_QUESTION
+Jaki rozmiar ma wskaźnik typu void* w języku C?
+END_OF_QUESTION
+Może być on różny
+4B
+1B
+2B
+A
+END_OF_LIST

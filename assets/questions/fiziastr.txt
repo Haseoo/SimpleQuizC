@@ -1,0 +1,36 @@
+BEGIN_OF_QUESTION
+W jakim gwiazdozbiorze znajduje się północna Gwiazda Polarna?
+END_OF_QUESTION
+Pas Oriona
+Wielka Niedźwiedzica
+Mały Lew
+Mały Wóz
+D
+BEGIN_OF_QUESTION
+Ile razy prędkość kątowa wskazówki minutowej jest większa od wskazówki sekundowej?
+END_OF_QUESTION
+60
+30
+12
+6
+C
+BEGIN_OF_QUESTION
+Ile wynosi pierwsza prędkość kosmiczna?
+END_OF_QUESTION
+7,9 km/s
+7.9 m/s
+11,2 km/s
+11,2 m/s
+A
+BEGIN_OF_QUESTION
+O której zasadzie termodynamiki mowa?
+"W układzie zachowawczym energia nie może ani powstawać,
+ani zanikać, może jedynie 
+przeistaczać się z jednej postaci w drugą."
+END_OF_QUESTION
+"Zerowej"
+Pierwszej
+Drugiej
+Trzeciej
+B
+END_OF_LIST

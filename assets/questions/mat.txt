@@ -1,0 +1,33 @@
+BEGIN_OF_QUESTION
+Jaka jest druga liczba po przecinku liczby pi?
+END_OF_QUESTION
+1
+2
+3
+4
+D
+BEGIN_OF_QUESTION
+Ile ścian na sześcian?
+END_OF_QUESTION
+1
+4
+6
+2
+C
+BEGIN_OF_QUESTION
+Jaki system liczbowy jest jednocześnie addytywny i pozycyjny?
+END_OF_QUESTION
+Ósemkowy
+Trójkowy
+Jedynkowy
+Dwójkowy
+C
+BEGIN_OF_QUESTION
+Jaki wzór ma pochodna funkcji x^(-2)?
+END_OF_QUESTION
+x
+-2/x^3
+x^(-3)
+-x^(-3)
+B
+END_OF_LIST

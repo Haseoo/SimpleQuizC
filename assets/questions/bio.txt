@@ -1,0 +1,33 @@
+BEGIN_OF_QUESTION
+W systematyce do jakiej klasy należy człowiek?
+END_OF_QUESTION
+Gady
+Płazy
+Ssaki
+Ptaki
+C
+BEGIN_OF_QUESTION
+W jakim organie powstają limfocyty B u dorosłego człowieka?
+END_OF_QUESTION
+Kość
+Wątroba
+Serce
+Nerki
+A
+BEGIN_OF_QUESTION
+Która tkana u roślin wyższych jest martwa?
+END_OF_QUESTION
+Miękisz
+Drewno
+Łyko
+Tkana okrywająca
+B
+BEGIN_OF_QUESTION
+Jak nazywa się zależność grzybów i glonów jaka zachodzi u porostów?
+END_OF_QUESTION
+Symbioza
+Helotyzm
+Współpraca
+Komensalizm
+B
+END_OF_LIST
